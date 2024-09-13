@@ -14,10 +14,6 @@ if (randomNumber1 > randomNumber2) {
     document.querySelector(".result").innerHTML = "Draw!";
 }
 
-
-
-
-
 // Refresh page
 function refreshBtn() {
     location.reload();
